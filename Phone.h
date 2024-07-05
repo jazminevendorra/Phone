@@ -3,8 +3,6 @@
 /*
 Phone.h
 
-Jazmin Even Dorra
-
 Specification file for the following classes:
 	- Phone, USPhone, InterPhone
 */
